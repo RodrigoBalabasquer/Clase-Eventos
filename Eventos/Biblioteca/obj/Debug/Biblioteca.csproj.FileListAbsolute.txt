@@ -1,0 +1,5 @@
+D:\Balabasquer\Eventos\Biblioteca\bin\Debug\Biblioteca.dll
+D:\Balabasquer\Eventos\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Balabasquer\Eventos\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Eventos\Biblioteca\obj\Debug\Biblioteca.dll
+D:\Balabasquer\Eventos\Biblioteca\obj\Debug\Biblioteca.pdb

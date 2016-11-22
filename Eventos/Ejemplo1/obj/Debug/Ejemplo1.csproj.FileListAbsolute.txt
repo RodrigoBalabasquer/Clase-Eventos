@@ -1,0 +1,11 @@
+D:\Balabasquer\Eventos\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+D:\Balabasquer\Eventos\Ejemplo1\bin\Debug\Ejemplo1.exe
+D:\Balabasquer\Eventos\Ejemplo1\bin\Debug\Ejemplo1.pdb
+D:\Balabasquer\Eventos\Ejemplo1\bin\Debug\Biblioteca.dll
+D:\Balabasquer\Eventos\Ejemplo1\bin\Debug\Biblioteca.pdb
+D:\Balabasquer\Eventos\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Eventos\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+D:\Balabasquer\Eventos\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+D:\Balabasquer\Eventos\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.Cache
+D:\Balabasquer\Eventos\Ejemplo1\obj\Debug\Ejemplo1.exe
+D:\Balabasquer\Eventos\Ejemplo1\obj\Debug\Ejemplo1.pdb

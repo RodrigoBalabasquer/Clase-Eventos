@@ -18,7 +18,7 @@ namespace Ejemplo1
         {
             InitializeComponent();
             this.cuenta = new Biblioteca.Cuenta();
-            this.cuenta.SaldoNegativo += this.MostrarSaldoNegativo;
+            this.cuenta.SaldoNegativo += new Biblioteca.CuentaDelegado(this.MostrarSaldoNegativo);
         }
 
         public void MostrarSaldoNegativo(float dinero) 

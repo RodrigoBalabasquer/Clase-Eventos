@@ -1,0 +1,8 @@
+D:\Balabasquer\Eventos\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+D:\Balabasquer\Eventos\Ejemplo2\bin\Debug\Ejemplo2.exe
+D:\Balabasquer\Eventos\Ejemplo2\bin\Debug\Ejemplo2.pdb
+D:\Balabasquer\Eventos\Ejemplo2\bin\Debug\Biblioteca.dll
+D:\Balabasquer\Eventos\Ejemplo2\bin\Debug\Biblioteca.pdb
+D:\Balabasquer\Eventos\Ejemplo2\obj\Debug\Ejemplo2.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Eventos\Ejemplo2\obj\Debug\Ejemplo2.exe
+D:\Balabasquer\Eventos\Ejemplo2\obj\Debug\Ejemplo2.pdb
